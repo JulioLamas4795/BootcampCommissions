@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.commission.repository;
 
-import com.example.demo.bean.Commission;
+import com.commission.bean.Commission;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 

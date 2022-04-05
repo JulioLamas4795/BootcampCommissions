@@ -1,7 +1,7 @@
-package com.example.demo.util;
+package com.commission.util;
 
-import com.example.demo.bean.Commission;
-import com.example.demo.dto.CommissionDto;
+import com.commission.bean.Commission;
+import com.commission.dto.CommissionDto;
 import org.springframework.beans.BeanUtils;
 
 public class AppUtils {

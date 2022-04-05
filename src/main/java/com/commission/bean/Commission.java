@@ -1,4 +1,4 @@
-package com.example.demo.bean;
+package com.commission.bean;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.*;

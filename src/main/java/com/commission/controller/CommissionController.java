@@ -1,8 +1,8 @@
-package com.example.demo.controller;
+package com.commission.controller;
 
-import com.example.demo.bean.Commission;
-import com.example.demo.dto.CommissionDto;
-import com.example.demo.service.CommissionService;
+import com.commission.bean.Commission;
+import com.commission.dto.CommissionDto;
+import com.commission.service.CommissionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
